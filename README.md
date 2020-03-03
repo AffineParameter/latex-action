@@ -1,6 +1,6 @@
 # latex-action
 
-[![GitHub Actions Status](https://github.com/xu-cheng/AffineParameter/latex-action/Test%20Github%20Action/badge.svg)](https://github.com/AffineParameter/latex-action/actions)
+![Github Action Status](https://github.com/AffineParameter/latex-action/workflows/Test%20Github%20Action/badge.svg)
 
 GitHub Action to compile LaTeX documents.
 
